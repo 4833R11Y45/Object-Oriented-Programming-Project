@@ -1,0 +1,2 @@
+C:\IST BSCS 01\2ND Semester\Object Oriented Programming Lab\Project\OOP Lab Project\Debug\OOP Lab Project.exe
+C:\IST BSCS 01\2ND Semester\Object Oriented Programming Lab\Project\OOP Lab Project\Debug\OOP Lab Project.pdb
